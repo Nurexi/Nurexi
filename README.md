@@ -19,9 +19,6 @@
 [![website](./img/telegram-dark.png)](https://t.me/xos_tour#gh-light-mode-only)
 [![website](./img/telegram-light.png)](https://t.me/xos_tour#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/nuredin10#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/nuredin10#gh-dark-mode-only)
-&nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://instagram.com/nure_xos#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/nure_xos#gh-dark-mode-only)
 
