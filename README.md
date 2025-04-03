@@ -11,16 +11,9 @@
 
 <hr />
 
-### Reach out to me:
+### 🌐 Reach out to me:
 
-[![website](./img/email-dark.png)](mailto:Nuredinxos@gmail.com#gh-light-mode-only)
-[![website](./img/email-light.png)](mailto:Nuredinxos@gmail.com#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/telegram-dark.png)](https://t.me/xos_tour#gh-light-mode-only)
-[![website](./img/telegram-light.png)](https://t.me/xos_tour#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/nure_xos#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/nure_xos#gh-dark-mode-only)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nure_xos) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Nuredinseid) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/nuredinxos)  
 
 
 <h3>Languages and Tools:</h3>
