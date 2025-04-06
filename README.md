@@ -15,8 +15,8 @@
 
 <p align="left">
   </a>
-  <a href="https://instagram.com/xos_tour" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="xos_tour" height="30" width="40" />
+  <a href="https://instagram.com/nure_xos" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nure_xos" height="30" width="40" />
   </a>
 <a href="https://twitter.com/Nuredin seid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Nuredin seid" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/Nuredin Seid-a40548195" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/Nuredin Seid-a40548195" height="30" width="40" /></a>
