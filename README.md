@@ -4,7 +4,7 @@
 
 <ul>
  
-  <li> ⚡ Check out my latest website: https://nurestoree.netlify.app/
+  <li> ⚡ Check out my latest website: https://nurestore.netlify.app/
   <li>💻 Visit my personal portfolio: https://nure.netlify.app/
   <li>🌱 I’m currently working as a freelancer</li>
   <li>🦅 Goal: To contribute more to open source projects</li>
