@@ -39,13 +39,23 @@
   <img alt="SQLite" src="https://img.shields.io/badge/-SQLite-4D588E?style=flat-square&logo=sqlite&logoColor=white" />
 
 </p>
-
 <h3>Tools</h3>
 <p>
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-000000?style=flat-square&logo=github&logoColor=white" />
 
 </p>
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nurexi&show_icons=true&theme=aura&bg_color=0D1117&hide_border=true&ring_color=6F3AFF&title_color=E4B1FF&text_color=FFFFFF&icon_color=C3B1E1" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nurexi&layout=compact&theme=aura&bg_color=0D1117&hide_border=true&title_color=E4B1FF&text_color=FFFFFF" alt="Top Languages" height="170" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbelStack&theme=aura&hide_border=true&background=0D1117&ring=6F3AFF&fire=FF5C00&currStreakLabel=E4B1FF&sideLabels=C3B1E1" alt="GitHub Streak" />
+</div>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/asmrprog-yt/asmrprog-yt/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/asmrprog-yt/asmrprog-yt/output/github-snake.svg" />
