@@ -1,17 +1,29 @@
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" alt="waving hand">, I'm Nuredin Seid</h1>
+<h3 align="center">A Software Engineering student </h3>
 
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" alt="waving hand">, I'm Nuredin Seid</h1>
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6F3AFF&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Open-Source+Contributor;Tech+Enthusiast;Problem+Solver" alt="Typing SVG" /></a>
+</p>
 
-<h2>Good to have you here. This is my GitHub profile!</h2><img align="right" alt="Programming" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Nurexi&label=Profile%20views&color=6F3AFF&style=flat" alt="Nurexi" /> 
+  <a href="https://github.com/Nurexi?tab=followers"><img src="https://img.shields.io/github/followers/Nurexi?label=Followers&style=social" alt="GitHub followers"></a>
+</div>
 
-<ul>
- 
-  <li> ⚡ Check out my latest website: https://nurestore.netlify.app/
- 
-  <li>🦅 Goal: To contribute more to open source projects</li>
-  <li>👯 I’m looking to collaborate more with creative developers</li>
+<br>
+
+<div align="center">
+  <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+<h2> Good to have you here. This is my GitHub profile!</h2>
+<li> ⚡ Check out my latest website: https://nurestore.netlify.app/
+<li>🦅 Goal: To contribute more to open source projects</li>
+<li>👯 I’m looking to collaborate more with creative developers</li>
 </ul>
 
 <hr />
+
+
 
 ### 🌐 Reach out to me:
 
