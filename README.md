@@ -1,6 +1,7 @@
+
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" alt="waving hand">, I'm Nuredin Seid</h1>
 
-<h2>Good to have you here. This is my GitHub profile!</h2>
+<h2>Good to have you here. This is my GitHub profile!</h2><img align="right" alt="Programming" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
 <ul>
  
