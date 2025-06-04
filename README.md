@@ -15,7 +15,7 @@
 <div align="center">
   <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<h2> Good to have you here. This is my GitHub profile!</h2>
+<h2> Hi This is my GitHub profile!</h2>
 <li> ⚡ Check out my latest website: https://nurestore.netlify.app/
 <li>🦅 Goal: To contribute more to open source projects</li>
 <li>👯 I’m looking to collaborate more with creative developers</li>
