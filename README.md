@@ -16,7 +16,8 @@
  
 
 <h2> Hi This is my GitHub profile!</h2>
-<li> ⚡ Check out my latest website: https://nurestore.netlify.app/
+<li> ⚡ Check out my latest website: (https://foodi-7.vercel.app/) <br>
+                                              ⚡(https://nurestore.netlify.app/)
 <li>🦅 Goal: To contribute more to open source projects</li>
 <li>👯 I’m looking to collaborate more with creative developers</li>
 </ul>
