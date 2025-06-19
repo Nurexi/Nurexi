@@ -114,7 +114,7 @@
 
 <br>
 
-## 🔥 Contribution Graph
+## 🔥 Contribution Graphs
 
 <div align="center">
   
