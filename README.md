@@ -27,7 +27,7 @@
 
 
 
-### 🌐 Reach out to me:
+<h2>🌐 Reach out to me:</h2> 
 
 <p align="left">
   </a>
@@ -89,7 +89,7 @@
 
 </p>
 
-
+ <h2><center> 🔥 GitHub Status</center></h2>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Nurexi&show_icons=true&theme=aura&bg_color=0D1117&hide_border=true&ring_color=6F3AFF&title_color=E4B1FF&text_color=FFFFFF&icon_color=C3B1E1" alt="GitHub Stats" height="170" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nurexi&layout=compact&theme=aura&bg_color=0D1117&hide_border=true&title_color=E4B1FF&text_color=FFFFFF" alt="Top Languages" height="170" />
