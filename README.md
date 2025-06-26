@@ -117,15 +117,19 @@
   </a>
 </p>
 
- <h2><center> 📊 GitHub Stats </center></h2>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nurexi&show_icons=true&theme=aura&bg_color=0D1117&hide_border=true&ring_color=6F3AFF&title_color=E4B1FF&text_color=FFFFFF&icon_color=C3B1E1" alt="GitHub Stats" height="170" />
+<h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nurexi&show_icons=true&theme=aura&bg_color=0D1117&hide_border=true&ring_color=6F3AFF&title_color=E4B1FF&text_color=FFFFFF&icon_color=C3B1E1" alt="Nurexi's GitHub Stats" height="170" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nurexi&layout=compact&theme=aura&bg_color=0D1117&hide_border=true&title_color=E4B1FF&text_color=FFFFFF" alt="Top Languages" height="170" />
-</div>
-<h2><center> 🔥 GitHub Streak </center></h2>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nurexi&theme=aura&hide_border=true&background=0D1117&ring=6F3AFF&fire=FF5C00&currStreakLabel=E4B1FF&sideLabels=C3B1E1" alt="GitHub Streak" />
-</div>
+</p>
+
+<h2 align="center">🔥 GitHub Streak</h2>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nurexi&theme=aura&hide_border=true&background=0D1117&ring=6F3AFF&fire=FF5C00&currStreakLabel=E4B1FF&sideLabels=C3B1E1" alt="Nurexi's GitHub Streak" />
+</p>
+
 <h2>🏆 GitHub Trophies</h2> 
 
 <div align="center">
