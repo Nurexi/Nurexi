@@ -98,7 +98,7 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nurexi&theme=aura&hide_border=true&background=0D1117&ring=6F3AFF&fire=FF5C00&currStreakLabel=E4B1FF&sideLabels=C3B1E1" alt="GitHub Streak" />
 </div>
-## 🏆 GitHub Trophies
+<h2>🏆 GitHub Trophies</h2> 
 
 <div align="center">
   
@@ -113,7 +113,7 @@
 
 <br>
 
-## 🔥 Contribution Graph
+<h2>🔥 Contribution Graph  </h2> 
 
 <div align="center">
   
