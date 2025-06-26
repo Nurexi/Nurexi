@@ -152,7 +152,7 @@
   [![Nuredin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nurexi&bg_color=0D1117&color=6F3AFF&line=E4B1FF&point=C3B1E1&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
 </div>
-
+ 
 <br>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/asmrprog-yt/asmrprog-yt/output/github-snake-dark.svg" />
