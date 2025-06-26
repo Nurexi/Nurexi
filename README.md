@@ -7,8 +7,15 @@
 </p>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Nurexi&label=Profile%20views&color=6F3AFF&style=flat" alt="Nurexi" /> 
-  <a href="https://github.com/Nurexi?tab=followers"><img src="https://img.shields.io/github/followers/Nurexi?label=Followers&style=social" alt="GitHub followers"></a>
+  <img src="https://komarev.com/ghpvc/?username=Nurexi&label=Profile%20views&color=6F3AFF&style=flat" alt="Profile Views" />
+  &nbsp;
+  <a href="https://github.com/Nurexi?tab=followers">
+    <img src="https://img.shields.io/github/followers/Nurexi?label=Followers&style=social" alt="GitHub Followers" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Nurexi?tab=stars">
+    <img src="https://img.shields.io/github/stars/Nurexi?style=social" alt="GitHub Stars" />
+  </a>
 </div>
 
 <br>
