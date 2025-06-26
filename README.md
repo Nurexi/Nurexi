@@ -4,7 +4,7 @@
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6F3AFF&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Open-Source+Contributor;Tech+Enthusiast;Problem+Solver" alt="Typing SVG" /></a>
   
-</p>
+</p> 
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Nurexi&label=Profile%20views&color=6F3AFF&style=flat" alt="Profile Views" />
