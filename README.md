@@ -145,7 +145,7 @@
 
 <br>
 
-<h2>🔥 Contribution Graph  </h2> 
+<h2><center>📈 Contribution Graph</center></h2> 
 
 <div align="center">
   
