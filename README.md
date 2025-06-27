@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=5,18,22&height=120&section=header&text=Welcome%20to%20My%20Profile!&fontSize=28&fontColor=fff&animation=twinkling&fontAlignY=40" />
-</p>
+
 
   
 
@@ -12,7 +10,9 @@
 <h3 align="center">
   🎓 A Software Engineering Student
 </h3>
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=5,18,22&height=120&section=header&text=Welcome%20to%20My%20Profile!&fontSize=28&fontColor=fff&animation=twinkling&fontAlignY=40" />
+</p>
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6F3AFF&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Open-Source+Contributor;Tech+Enthusiast;Problem+Solver" alt="Typing SVG" /></a>
   
