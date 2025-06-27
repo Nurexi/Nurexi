@@ -2,10 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=5,18,22&height=120&section=header&text=Welcome%20to%20My%20Profile!&fontSize=28&fontColor=fff&animation=twinkling&fontAlignY=40" />
 </p>
 
-<p align="center">
- 
-</p>
-
 <h2 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" alt="waving hand"> Hi there, I'm <strong>Nuredin Seid</strong> 🌟
 </h2>
