@@ -34,8 +34,8 @@
  <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <h2> Hi This is my GitHub profile!</h2>
-<li> ⚡ Check out my latest websites: (https://foodi-7.vercel.app/) <br>
-                                              ⚡(https://nurestore.netlify.app/)
+<li> ⚡ Check out my latest websites: (https://nure-perfume.netlify.app/) <br>
+                                              ⚡(https://foodi-7.vercel.app/)
 <li>🦅 Goal: To contribute more to open source projects</li>
 <li>👯 I’m looking to collaborate more with creative developers</li>
 </ul>
