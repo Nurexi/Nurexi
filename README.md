@@ -30,14 +30,14 @@
 </div>
 
 <br>
-
+<h2>👋 Welcome to My GitHub Profile</h2>
 <div align="center">
   <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 </div>
 
 ---
 
-<h2>👋 Welcome to My GitHub Profile!</h2>
+
 
 <ul>
   <li>⚡ Check out my latest websites: 
@@ -46,6 +46,8 @@
   </li>
   <li>🦅 Goal: To contribute more to open-source projects</li>
   <li>🤝 I’m looking to collaborate more with creative developers</li>
+  <li>💡 I enjoy making simple, creative, and useful projects.</li>
+  <li>🌱 I'm learning more about coding, algorithms, and system design.</li>
 </ul>
 
 ---
