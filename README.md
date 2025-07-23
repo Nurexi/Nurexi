@@ -30,7 +30,7 @@
 </div>
 
 <br>
-<h2>👋 Welcome to My GitHub Profile</h2>
+<h1>👋 Welcome to My GitHub Profile</h1>
 <div align="center">
   <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 </div>
