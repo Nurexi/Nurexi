@@ -35,7 +35,7 @@
 
 <h2> Hi This is my GitHub profile!</h2>
 <li> ⚡ Check out my latest websites: (https://nure-perfume.netlify.app/) <br>
-        🌟 (https://furnish-7.netlify.app/)    ⚡(https://foodi-7.vercel.app/)
+         ⚡(https://foodi-7.vercel.app/)
 <li>🦅 Goal: To contribute more to open source projects</li>
 <li>👯 I’m looking to collaborate more with creative developers</li>
 </ul>
