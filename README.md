@@ -69,7 +69,7 @@
 
 ---
 
-<h3>🧰 Languages and Tools:</h3>
+<h3> Languages and Tools:</h3>
 
 <p align="left">
   <!-- Programming Languages -->
@@ -87,7 +87,7 @@
 
 ---
 
-<h3>🗄️ Databases:</h3>
+<h3> Databases:</h3>
 
 <p align="left">
   <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" /></a>
@@ -98,7 +98,7 @@
 
 ---
 
-<h3>⚒️ Tools & Platforms:</h3>
+<h3> Tools & Platforms:</h3>
 
 <p align="left">
   <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" /></a>
