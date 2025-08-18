@@ -1,7 +1,6 @@
 
  <div align="center">                        
                       
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Nurexi&data=followers,repositories,stars,commits&theme=viridescent)](https://github.com/Nurexi)
 
 
 <h2 align="center"> 
@@ -159,6 +158,8 @@
 </picture>
 
 <br>
+
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Nurexi&data=followers,repositories,stars,commits&theme=viridescent)](https://github.com/Nurexi)
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
