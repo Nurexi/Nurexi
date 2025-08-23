@@ -1,8 +1,6 @@
 
  <div align="center">                        
-                      
-
-
+ 
 <h2 align="center"> 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" alt="waving hand"> 
   Hi there, I'm <strong>Nuredin Seid</strong> 🌟
@@ -46,8 +44,9 @@
 
 <ul>
   <li>⚡ Check out my latest websites: 
-    <br>🔗 <a href="https://nure-perfume.netlify.app/" target="_blank">nure-perfume.netlify.app</a> 
-    <br>🔗 <a href="https://foodi-7.vercel.app/" target="_blank">foodi-7.vercel.app</a>
+   <br>🔗 <a href="https://nure.netlify.app/" target="_blank">nure.netlify.app</a>
+     
+    
   </li>
   <li>🦅 Goal: To contribute more to open-source projects</li>
   <li>🤝 I’m looking to collaborate more with creative developers</li>
