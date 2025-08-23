@@ -1,12 +1,12 @@
 
  <div align="center">                        
  
-<h2 align="center"> 
+<h1 align="center"> 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" alt="waving hand"> 
   Hi there, I'm <strong>Nuredin Seid</strong> 🌟
-</h2>
+</h1>
 
-<h3 align="center">🎓 A Software Engineering Student</h3>
+<h2 align="center">🎓 A Software Engineering Student</h2>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
