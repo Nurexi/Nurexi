@@ -43,7 +43,7 @@
 
 
 <ul>
-  <li>⚡ Check out my latest websites: 
+  <li>⚡ Check out my Portfolio: 
    <br>🔗 <a href="https://nure.netlify.app/" target="_blank">nure.netlify.app</a>
      
     
