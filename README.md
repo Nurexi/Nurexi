@@ -56,7 +56,7 @@
 - 💡 I enjoy building simple, creative, and impactful projects  
 - 🌱 Currently learning **algorithms** & **system design**  
 
----
+
 
 </ul>
 
