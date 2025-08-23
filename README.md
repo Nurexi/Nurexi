@@ -43,15 +43,21 @@
 
 
 <ul>
-  <li>⚡ Check out my Portfolio: 
-   <br>🔗 <a href="https://nure.netlify.app/" target="_blank">nure.netlify.app</a>
+  
      
     
-  </li>
-  <li>🦅 Goal: To contribute more to open-source projects</li>
-  <li>🤝 I’m looking to collaborate more with creative developers</li>
-  <li>💡 I enjoy making simple, creative, and useful projects.</li>
-  <li>🌱 I'm learning more about coding, algorithms, and system design.</li>
+  <div align="left">
+  
+<li>⚡ Check out my Portfolio: 
+   <br>🔗 <a href="https://nure.netlify.app/" target="_blank">nure.netlify.app</a>
+
+- 🦅 Goal: To contribute more to open-source projects  
+- 🤝 Looking to collaborate with creative developers  
+- 💡 I enjoy building simple, creative, and impactful projects  
+- 🌱 Currently learning **algorithms** & **system design**  
+
+---
+
 </ul>
 
 ---
