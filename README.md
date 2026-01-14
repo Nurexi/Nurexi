@@ -48,7 +48,7 @@
     
   <div align="left">
   
-# portfolio
+
  <li>⚡ Check out my Portfolio 🔗 <a href="https://nure.netlify.app/" target="_blank">nure.netlify.app</a> 
             <br>
  
