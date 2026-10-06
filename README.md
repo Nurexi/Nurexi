@@ -49,9 +49,7 @@
   <div align="left">
   
 
- <li>⚡ Check out my Portfolio 🔗 <a href="https://nure.netlify.app/" target="_blank">nure.netlify.app</a> 
-            <br>
- 
+
 
 
 - 🦅 Goal: To contribute more to open-source projects  
